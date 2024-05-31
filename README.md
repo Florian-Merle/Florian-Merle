@@ -3,6 +3,8 @@
 👨‍💻 I'm a web developer at AKAWAKA
 
 🎤 My last talks:
+* [Plongée dans l’injection de dépendances - AFUP Day lyon 2024](https://event.afup.org/afup-day-2024/afup-day-2024-lyon/programme/)
+* [Et comment on fait sans PHPStorm ? - Meetup AFUP janvier 2024](https://www.meetup.com/fr-FR/afup-lyon-php/events/298437484/)
 * [Utilisez la bibliothèque standard PHP (SPL) au quotidien - Forum PHP AFUP 2023](https://event.afup.org/forum-php-2023/programme/)
 * [Utilisez la bibliothèque standard PHP (SPL) au quotidien - Meetup AFUP octobre 2023](https://www.meetup.com/fr-FR/afup-lyon-php/events/296330765/)
 * [Let your end users be creative with the ExpressionLanguage component - SymfonyOnline June 2023](https://symfony.com/blog/symfonyonline-june-2023-let-your-end-users-be-creative-with-the-expressionlanguage-component)
